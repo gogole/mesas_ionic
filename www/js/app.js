@@ -45,6 +45,7 @@ $stateProvider
         views: {
           'tab-mesas': {
             templateUrl: 'templates/mesas.html',
+            controller: 'MesasCtrl'
           }
         }
       })
@@ -68,3 +69,10 @@ $stateProvider
 
      $urlRouterProvider.otherwise('/tab/home');
 })
+
+.controller('MesasCtrl', ['$scope', '$http', '$state', function($scope, $http, $state) {
+  $http.get('js/data.json')
+  .success(function(data){
+    $scope.materias = data.materias;
+  });
+}])

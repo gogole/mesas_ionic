@@ -1,6 +1,23 @@
-  <ion-view view-title="Información de Mesas">
+<ion-view view-title="Información de Mesas">
   <ion-content class="padding ">
-<h2>Mesas</h2>
+  <div class="list">
 
+    <div class="item item-divider item-input-inset">
+      <label class="item-input-wrapper">
+        <i class="icon ion-search placeholder-icon"></i>
+        <input type="search"  ng-model="query">
+      </label>
+    </div>
+
+    <ion-list class="item item-thumbnail">
+        <ion-item ng-repeat="item in materias | filter: query" >
+          <h2>{{item.nombre}} <br></h2>
+          <p>Año de la Materia: {{item.anio}}</p>
+          <h3>Turnos:</h3>
+          <p>{{item.octava_mesa}}/{{item.novena_mesa}}/{{item.decima_mesa}}</p>
+        </ion-item>
+    </ion-list>
+  <div>
   </ion-content>
-  </ion-view>
+
+</ion-view>

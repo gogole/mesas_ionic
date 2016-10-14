@@ -1,0 +1,37 @@
+{
+  "materias": [
+    {
+      "nombre": "Algoritmos y Estructuras de Datos I",
+      "anio": "Primero",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    }, {
+      "nombre": "Algebra",
+      "anio": "Primero",
+      "octava_mesa": "13-Oct",
+      "novena_mesa": "21-Nov",
+      "decima_mesa": "10-Dic"
+
+    }, {
+      "nombre": "Logica y Matematica Computacional",
+      "anio": "Primero",
+      "octava_mesa": "12-Oct",
+      "novena_mesa": "13-Nov",
+      "decima_mesa": "16-Dic"
+
+    }, {
+      "nombre": "Algoritmos y Estructuras de Datos II",
+      "anio": "Primero",
+      "octava_mesa": "19-Oct",
+      "novena_mesa": "17-Nov",
+      "decima_mesa": "15-Dic"
+    }, {
+      "nombre": "Sistemas y Organizaciones",
+      "anio": "Primero",
+      "octava_mesa": "13-Oct",
+      "novena_mesa": "22-Nov",
+      "decima_mesa": "07-Dic"
+    }
+  ]
+}
