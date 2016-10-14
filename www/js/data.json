@@ -6,32 +6,169 @@
       "octava_mesa": "12-oct",
       "novena_mesa": "15-nov",
       "decima_mesa": "22-dic"
-    }, {
+    },
+    {
       "nombre": "Algebra",
       "anio": "Primero",
       "octava_mesa": "13-Oct",
       "novena_mesa": "21-Nov",
       "decima_mesa": "10-Dic"
 
-    }, {
+    },
+    {
       "nombre": "Logica y Matematica Computacional",
       "anio": "Primero",
       "octava_mesa": "12-Oct",
       "novena_mesa": "13-Nov",
       "decima_mesa": "16-Dic"
 
-    }, {
+    },
+    {
       "nombre": "Algoritmos y Estructuras de Datos II",
       "anio": "Primero",
       "octava_mesa": "19-Oct",
       "novena_mesa": "17-Nov",
       "decima_mesa": "15-Dic"
-    }, {
+    },
+    {
       "nombre": "Sistemas y Organizaciones",
       "anio": "Primero",
       "octava_mesa": "13-Oct",
       "novena_mesa": "22-Nov",
       "decima_mesa": "07-Dic"
+    },
+    {
+      "nombre": "Paradigmas Y Lenguajes",
+      "anio": "Segundo",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Calculo Diferencial e Integral",
+      "anio": "Segundo",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Arquitectura y Organización de Computadoras",
+      "anio": "Segundo",
+      "octava_mesa": "13-Oct",
+      "novena_mesa": "22-Nov",
+      "decima_mesa": "07-Dic"
+    },
+    {
+      "nombre": "Sistemas Operativos",
+      "anio": "Segundo",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Programación Orientada a Objetos",
+      "anio": "Segundo",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Admin. y Gestión de Organizaciones",
+      "anio": "Segundo",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Taller de Programación I",
+      "anio": "Tercero",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Comunicación de Datos",
+      "anio": "Tercero",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Ingenieria de Software I",
+      "anio": "Tercero",
+      "octava_mesa": "13-Oct",
+      "novena_mesa": "22-Nov",
+      "decima_mesa": "07-Dic"
+    },
+    {
+      "nombre": "Taller de Programación II",
+      "anio": "Tercero",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Probabilidad y Estadísticas",
+      "anio": "Tercero",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Base de Datos I",
+      "anio": "Tercero",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Inglés Técnico",
+      "anio": "Extracurricular",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Ingenieria de Software II",
+      "anio": "Cuarto",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Economía Aplicada",
+      "anio": "Cuarto",
+      "octava_mesa": "13-Oct",
+      "novena_mesa": "22-Nov",
+      "decima_mesa": "07-Dic"
+    },
+    {
+      "nombre": "Teoría de la Computación",
+      "anio": "Cuarto",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Redes de Datos",
+      "anio": "Cuarto",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Base de Datos II",
+      "anio": "Cuarto",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
+    },
+    {
+      "nombre": "Métodos Computacionales",
+      "anio": "Cuarto",
+      "octava_mesa": "12-oct",
+      "novena_mesa": "15-nov",
+      "decima_mesa": "22-dic"
     }
   ]
 }
